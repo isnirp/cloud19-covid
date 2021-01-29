@@ -6,7 +6,7 @@ export default function Banner() {
       <div className="jumbotron jumbotron-fluid">
         <div className="container">
           <h1 className="display-4">COVID-19 Discovery</h1>
-          <p className="lead">Short notes on the scope of the covid</p>
+          <p className="lead">...</p>
         </div>
       </div>
     </React.Fragment>
